@@ -91,9 +91,11 @@ header-includes:
 
 5.Откроем в тестовом редакторе файл report.md и заполним отчёт (рис. [-@fig:005])
 
-![5ое](image/6.jpg){ #fig:006 width=70% }
+![5ое](image/6.jpg){ #fig:005 width=70% }
 
+6.Загрузим файлы на GitHub (рис. [-@fig:006])
 
+![6ое](image/7.jpg){ #fig:006 width=70% }
 
 # Выводы
 
